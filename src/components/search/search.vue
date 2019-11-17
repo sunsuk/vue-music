@@ -1,6 +1,6 @@
 <template>
 <div>
-    
+    音乐搜索页面
 </div>
 </template>
 <script >
